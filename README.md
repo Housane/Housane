@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello! I'm Enjie and im glad to meet you!👋
 
+I'm a student Majoring in Quantitative Finance, with a Second Major in Economics at the National University of Singapore 
 <!--
 **Housane/Housane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
