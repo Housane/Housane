@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&width=435&lines=print(%22Hello%2C+World!+%F0%9F%91%8B%22)+;Hey%2C+you!+Yes%2C+you!+;Thank+you+for+viewing+my+page!+)](https://git.io/typing-svg)
-
 ## Hello! I'm En Jie! 
 
 I'm a student Majoring in Quantitative Finance, with a Second Major in Economics at the National University of Singapore. 
