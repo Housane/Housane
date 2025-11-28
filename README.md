@@ -1,6 +1,6 @@
-## Hello! I'm Enjie and im glad to meet you!👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C+World!+%F0%9F%91%8B%22)+;Hey%2C+you!+Yes%2C+you!+;Thank+you+for+viewing+my+page!+)](https://git.io/typing-svg)
 
-I'm a student Majoring in Quantitative Finance, with a Second Major in Economics at the National University of Singapore 
+I'm a student Majoring in Quantitative Finance, with a Second Major in Economics at the National University of Singapore. 
 <!--
 **Housane/Housane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
