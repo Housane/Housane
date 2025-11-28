@@ -3,7 +3,7 @@
 
 I'm a student Majoring in Quantitative Finance, with a Second Major in Economics at the National University of Singapore. 
 I am interested in Market Microstructure, Game Theory and Auction Theory. 
-During my free time, I point tubes full of glass at metal tubes in the sky. I also write about them too, focusing on Sustainable Aviation developments, together with general aviation news. 
+During my free time, I do Aviation Photography. I also write about aviation, focusing on sustainable developments and general news. 
 
 ## Projects I've Done 
 - NUS Orbital (Apollo 11) [With Cheryl Chan, Mentored by Vaishnav Muralidharan]
@@ -14,11 +14,6 @@ During my free time, I point tubes full of glass at metal tubes in the sky. I al
 - Coding an interative game on Claw Machines for my github profile 😄
 (Maybe something else if it catches my eye)
 
-
-
-
-
-Profile Credits: https://git.io/typing-svg 
 <!--
 **Housane/Housane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
