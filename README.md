@@ -3,7 +3,7 @@
 
 I'm a student Majoring in Quantitative Finance, with a Second Major in Economics at the National University of Singapore.<br>
 I am interested in Market Microstructure, Game Theory and Auction Theory.<br>
-During my free time, I do Aviation Photography. I also write about aviation, focusing on sustainable developments and general news.<br>
+During my free time, I do Aviation Photography. I also write about aviation, focusing on sustainable aviation and general news.<br>
 
 ## Projects I've Done 
 - NUS Orbital (Apollo 11) [With Cheryl Chan, Mentored by Vaishnav Muralidharan]<br>
